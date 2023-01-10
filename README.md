@@ -6,7 +6,7 @@ This dataset can be used to reproduce the analysis in [T. Matzen et al. "Objecti
 
 If you have any questions about the dataset, please get in touch with Kim de Bie at the Netherlands Forensic Institute via k.de.bie@nfi.nl.  
 
-The dataset contains four tables. These are stored as csv files in the folder `data`. The table `particle` has been split into 5 separate files, where the integer in the file name indicates the maximum stub id in the file.
+The dataset contains four tables. These are stored as csv files in the folder `data`. The table `particle` has been split into 14 separate files (because of file size restrictions), where the integer in the file name indicates the maximum stub id in the file.
   
 Below, each table and the relevant columns are described. 
  
